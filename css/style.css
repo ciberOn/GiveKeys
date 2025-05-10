@@ -1,6 +1,7 @@
 *{
     left:0;
     margin: 0;
+    font-family: Arial;
 }
 body{
     background:linear-gradient(45deg, #4158d0, #4158d0, #c850c0, #c850c0, #ffcc70, #ffcc70);
@@ -12,7 +13,7 @@ header{
 main{
     background-color: #0559e169;
     height: 100vh;
-    width: 130vh;
+    max-width: 130vh;
 }
 
 
@@ -33,4 +34,9 @@ main{
 .case{
     background-color: #000000bb;
     margin: 5px;
+    max-width: 225px;
+}
+
+.simpleHead{
+    color: #fff;
 }
