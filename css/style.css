@@ -3,8 +3,10 @@
     margin: 0;
 }
 body{
-    background: #2b2b2b
+    background:linear-gradient(45deg, #4158d0, #4158d0, #c850c0, #c850c0, #ffcc70, #ffcc70);
+    height: 100vh;
 }
+
 
 .openBtn{
     border-radius: 50px;
