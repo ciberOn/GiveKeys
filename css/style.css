@@ -48,11 +48,18 @@ main{
 .simpleText{
     color: #88ff00;
 }
+
 .resultHead{
     text-align: center;
 }
 .resultblock{
-    background: linear-gradient(0, 0, 0);
+    background: #81e6ff89;
     width: 100%;
-    height: 70px;
+    height: auto;
+    position: absolute;
+    top: 50%;
+    visibility: hidden;
+}
+.resbvis{
+    visibility: visible;
 }

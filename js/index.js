@@ -16,4 +16,10 @@ function openCase(selectcase){
     }
 
     document.getElementById("result").innerText = selectcase[getRandomInt(1, selectcase.length)-1]
+    document.getElementById("resultblock").style.visibility = "visible";
+    setTimeout(resclose, 3000)
 }
+function resclose(){
+    document.getElementById("resultblock").style.visibility = "hidden";
+}
+
