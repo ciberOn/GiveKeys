@@ -2,7 +2,7 @@ const case0 = ["ak-47 reactya", "awp nigtmare", "zero", "usp luckyshot"] //Су�
 const case1 = ["ak-47 wildfire", "awp nightvision", "zero", "usp powergaming"] //Мажорчик
 const case2 = ["ak-47 major2021", "awp major2022", "zero", "usp unluck"] //Не открывать
 const case3 = ["ak-47 يقثشةسنعمم", "awp يقثشةسنعمم", "0 ئثقخ", "usp حخصثقلشةهىل"] //ىهلشلهلش
-const case4 = ["ak-47 wildfire", "awp headattack", "zero", "usp powergaming"] //Неизвестный
+const case4 = ["10 KibeOne", "5 KiberOne", "-5 KiberOne :<", "15 KiberOne :>", "-20 KiberOne :("] //kiberone
 
 
 

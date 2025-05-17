@@ -5,8 +5,8 @@
 }
 .hTitle{
     background:linear-gradient(45deg, rgba(65, 89, 208, 0.645), #4c67ee, #c850c0, #c850c0, #ffcc70, #ffcc70);
-    padding: 13.5px;
-    color: greenyellow;
+    padding: 13px;
+    color: rgb(222, 255, 172);
 }
 body{
     background:linear-gradient(45deg, #4158d0, #4158d0, #c850c0, #c850c0, #ffcc70, #ffcc70);
@@ -46,7 +46,7 @@ main{
     color: #fff;
 }
 .simpleText{
-    color: #000;
+    color: #88ff00;
 }
 .resultHead{
     text-align: center;
