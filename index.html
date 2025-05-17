@@ -2,13 +2,17 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
     <title>Document</title>
     <link rel="stylesheet" href="css/style.css">
+    <script src="/js/index.js"></script>
 </head>
 <body>
     <header>
-        <h1 class="hTitle">The BEST game</h1>
+        <h1 class="hTitle">Give Keys<br>
+            У нас выигрывают</br>
+        </h1>
+        
     </header>
     <center>
     <main>
@@ -17,27 +21,36 @@
                     <div class="case">
                         <h2 class="simpleHead">Супер крутой кейс</h2>
                         <img src="img/case.png" alt="Кейс" class="caseImg">
-                        <button onclick="" class="openBtn">Open</button>
+                        <button onclick="openCase(case0)" class="openBtn">Open</button>
+                        
                     </div>
                     <div class="case">
                         <h2 class = "simpleHead">Мажорчик<h2>
                         <img src="img/case.png" alt="Кейс" class="caseImg">
-                        <button onclick="" class="openBtn">Open</button>
+                        <button onclick="openCase(case1)" class="openBtn">Open</button>
+                        
                     </div>
                     <div class="case">
                         <h2 class = "simpleHead">Не открывать<h2>
                         <img src="img/case.png" alt="Кейс" class="caseImg">
-                        <button onclick="" class="openBtn">Open</button>
+                        <button onclick="openCase(case2)" class="openBtn">Open</button>
+                        
                     </div>
                     <div class="case">
                         <h2 class="simpleHead">ىهلشلهلش</h2>
                         <img src="img/case.png" alt="Кейс" class="caseImg">
-                        <button onclick="" class="openBtn">Open</button>
+                        <button onclick="openCase(case3)" class="openBtn">Open</button>
+                        
                     </div>
                     <div class="case">
                         <h2 class="simpleHead">Неизвестный</h2>
                         <img src="img/case.png" alt="Кейс" class="caseImg">
-                        <button onclick="" class="openBtn">Open</button>
+                        <button onclick="openCase(case4)" class="openBtn">Open</button>
+                        
+                    </div>
+                    <div class="resultblock">
+                            <h1 class="resultHead">You get</h1>
+                            <h2 class="simpleText" id="result"></h2>
                     </div>
                 </div>
 

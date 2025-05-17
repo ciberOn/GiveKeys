@@ -3,6 +3,11 @@
     margin: 0;
     font-family: Arial;
 }
+.hTitle{
+    background:linear-gradient(45deg, rgba(65, 89, 208, 0.645), #4c67ee, #c850c0, #c850c0, #ffcc70, #ffcc70);
+    padding: 13.5px;
+    color: greenyellow;
+}
 body{
     background:linear-gradient(45deg, #4158d0, #4158d0, #c850c0, #c850c0, #ffcc70, #ffcc70);
 }
@@ -39,4 +44,15 @@ main{
 
 .simpleHead{
     color: #fff;
+}
+.simpleText{
+    color: #000;
+}
+.resultHead{
+    text-align: center;
+}
+.resultblock{
+    background: linear-gradient(0, 0, 0);
+    width: 100%;
+    height: 70px;
 }
