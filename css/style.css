@@ -56,10 +56,13 @@ main{
     background: #81e6ff89;
     width: 100%;
     height: auto;
-    position: absolute;
-    top: 50%;
+    position: fixed;
+    top: calc(50% - 150px);
     visibility: hidden;
 }
 .resbvis{
     visibility: visible;
+}
+.resultImg{
+    height: 300px;
 }

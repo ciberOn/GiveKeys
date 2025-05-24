@@ -1,2 +1,3 @@
 User-agent: *
 Disallow: /
+https://www.google.com/imgres?q=%D1%81%D0%BA%D0%B8%D0%BD%D1%8B%20%D0%BA%D1%81&imgurl=https%3A%2F%2Fimages.steamusercontent.com%2Fugc%2F2046364991285817224%2FA5700D31304E15F3AC40361AEF9F1FDF956C59E0%2F&imgrefurl=https%3A%2F%2Fsteamcommunity.com%2Fsharedfiles%2Ffiledetails%2F%3Fid%3D2961845744&docid=wEJ4lFPm_DgWCM&tbnid=krgheuSOgSjXZM&vet=12ahUKEwjpv73spLyNAxVWPhAIHeGrBJQQM3oECCIQAA..i&w=719&h=393&hcb=2&ved=2ahUKEwjpv73spLyNAxVWPhAIHeGrBJQQM3oECCIQAA      USP
